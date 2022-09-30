@@ -1,3 +1,3 @@
-# PowerBI-Projects
+# PowerBI-Projectsdsf
 In here I upload all of my porfolio project done in PowerBI for pursuing Data Analyst career
 My porfolio project to build a interactive dashboard about Service Request Management for a fictional company. In here you can interact a line chart showing the total requests trend over the year, the average of daily requests, the completed, pending and cancelled requests, grant total requests, total paid amount paid amount by month, column chart for paid versus quotations amounts, requests by services type. paid amounts by services type, a map chart showing total paid in percentage by regions and  a monthly filter.
